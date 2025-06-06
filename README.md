@@ -1,1 +1,1 @@
-# Titanic Survival Prediction
+# Tugas AI Kelompok B Kelas C2.23 Informatika
